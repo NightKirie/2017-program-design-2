@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="akagi">images/akagi.gif</file>
+        <file alias="background_day">images/background_day.jpg</file>
+        <file alias="background_night">images/background_night.jpg</file>
+        <file alias="background_title">images/background_title.jpg</file>
+        <file alias="fubuki">images/fubuki.gif</file>
+        <file alias="furutaka">images/furutaka.gif</file>
+        <file alias="i168">images/i168.gif</file>
+        <file alias="kitakami">images/kitakami.gif</file>
+        <file alias="kongo">images/kongo.gif</file>
+        <file alias="kuma">images/kuma.gif</file>
+        <file alias="ryuujou">images/ryuujou.gif</file>
+        <file alias="suzuya">images/suzuya.gif</file>
+        <file alias="taiho">images/taiho.gif</file>
+        <file alias="windowicon">images/windowicon.jpg</file>
+        <file alias="yamashiro">images/yamashiro.gif</file>
+        <file alias="yamato">images/yamato.gif</file>
+        <file alias="startbutton">images/startbutton.png</file>
+        <file alias="attack">images/attack.png</file>
+        <file alias="change">images/change.png</file>
+        <file alias="factory">images/factory.png</file>
+        <file alias="group">images/group.png</file>
+        <file alias="repair">images/repair.png</file>
+        <file alias="supply">images/supply.png</file>
+        <file alias="intro">images/intro.png</file>
+    </qresource>
+</RCC>
